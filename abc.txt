@@ -4,3 +4,7 @@ this is the v1 version
 
 Hope you are doing good
 this is my 2nd version
+
+this is data science class 
+we are learning git for data science
+for 3rd version
